@@ -1,0 +1,64 @@
+# Application specific files #
+##############################
+/logs/*
+/var/*
+/tmp/*
+/vendor/*
+/**/*.ast
+.env
+.phpunit.result.cache
+/tests/e2e/e2e_result.json
+/tests/testdata/**/vendor/**
+/tests/testdata/**/*.lock
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.directory
+
+# Tool specific files #
+#######################
+# PHPUnit
+.phpunit.result.cache
+# vim
+*~
+*.swp
+*.swo
+# sublime text & textmate
+*.sublime-*
+*.stTheme.cache
+*.tmlanguage.cache
+*.tmPreferences.cache
+# Eclipse
+.settings/*
+# JetBrains, aka PHPStorm, IntelliJ IDEA
+.idea/*
+# NetBeans
+nbproject/*
+# Visual Studio Code
+.vscode
+# Sass preprocessor
+.sass-cache/
+
+# Binaries for programs and plugins #
+#####################################
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c` #
+########################################
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE #
+#######################################################################
+*.out

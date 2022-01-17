@@ -1,0 +1,17 @@
+{
+    "name": "ishan-deepsource/demo-psalm-macro",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IshanDeepsource\\DemoPsalmMacro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ishan Vyas",
+            "email": "ishan@deepsource.io"
+        }
+    ],
+    "require": {}
+}

@@ -5,3 +5,7 @@ exclude_patterns = ["vendor/**"]
 [[analyzers]]
 name = "secrets"
 enabled = true
+
+[[analyzers]]
+name = "github.com/ishan-deepsource/psalm-analyzer"
+enabled = true
