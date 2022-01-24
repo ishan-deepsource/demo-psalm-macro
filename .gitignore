@@ -6,7 +6,6 @@
 /vendor/*
 .env
 .phpunit.result.cache
-/tests/testdata/**/*.lock
 
 # OS generated files #
 ######################
