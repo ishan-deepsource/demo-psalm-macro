@@ -6,7 +6,6 @@
 /vendor/*
 .env
 .phpunit.result.cache
-/tests/e2e/e2e_result.json
 /tests/testdata/**/vendor/**
 /tests/testdata/**/*.lock
 
