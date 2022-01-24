@@ -3,7 +3,7 @@
 /logs/*
 /var/*
 /tmp/*
-/vendor/*
+/vendor/**
 .env
 .phpunit.result.cache
 /tests/testdata/**/*.lock
